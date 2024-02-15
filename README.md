@@ -6,3 +6,5 @@ Belajar Memulai dasar pemrograman untuk menjadi pengembang software & pengenalan
   * Belajar tools untuk mengembangkan website menggunakan backend javascript
   * Mempelajari logika program melalui IN,OR,NOT,NAND,NOR ETC.
   * Mengenal logika program melalui latihan yang diberikan berbasis contoh.
+
+😎
