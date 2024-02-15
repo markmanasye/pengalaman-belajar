@@ -1,6 +1,6 @@
-Pengalaman Belajar di DICODING
+# Pengalaman Belajar di DICODING
 
-14 Februari 2024
+**14 Februari 2024**<br>
 Belajar Memulai dasar pemrograman untuk menjadi pengembang software & pengenalan logika pemograman(Programming Logic 101)
   * Belajar tentang bagaimana Java dan Javascrip dapat membuat website dibantu dengan html dan css
   * Belajar tools untuk mengembangkan website menggunakan backend javascript
