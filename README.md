@@ -8,3 +8,9 @@ Belajar Memulai dasar pemrograman untuk menjadi pengembang software & pengenalan
   * Mengenal logika program melalui latihan yang diberikan berbasis contoh.
 
 😎
+
+**14 Februari 2024**<br>
+Belajar mengenal Git dan Github.
+ * Saya mempelajari bagaimana bisa git dan github diakses.
+ * Mengenal dan membuat repository
+ * Menulis README untuk Github. 
